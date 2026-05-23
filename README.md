@@ -1,10 +1,10 @@
-# Parameterized 4-Qubit EWL Quantum Game Circuit for Quadruple Helix Disruptive Innovation Recommender Systems
+# A Compact Parameterized Quantum-Game Framework for Multi-Agent Innovation-Network Modeling
 
 This repository contains the source code for the paper:
 
-**"Parameterized 4-Qubit EWL Quantum Game Circuits with Dirac-Solow-Swan Hamiltonian Integration for Quadruple Helix Disruptive Innovation Recommender Systems"**
+**A Compact Parameterized Quantum-Game Framework for Multi-Agent Innovation-Network Modeling**
 
-**Authors**: Agung Trisetyarso, Fithra Faisal Hastiadi
+**Authors**: Agung Trisetyarso, Fithra Faisal Hastiadi, Kridanto Surendro
 
 ## Features
 - 4-qubit EWL quantum game circuit
