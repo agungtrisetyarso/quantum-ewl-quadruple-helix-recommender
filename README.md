@@ -4,7 +4,7 @@ This repository contains the source code for the paper:
 
 **A Compact Parameterized Quantum-Game Framework for Multi-Agent Innovation-Network Modeling**
 
-**Authors**: Agung Trisetyarso, Fithra Faisal Hastiadi, Kridanto Surendro
+**Authors**: Agung Trisetyarso
 
 ## Features
 - 4-qubit EWL quantum game circuit
